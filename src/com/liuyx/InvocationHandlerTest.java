@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * javaåŠ¨æ€�ä»£ç�†æœ‰ä¸€å®šå±€é™�æ€§ï¼Œéœ€è¦�å®šä¹‰è‡³å°‘ä¸€ä¸ªæŽ¥å�£ï¼Œä½¿ç”¨cglibåˆ™ä¸�å¿…å¦‚æ­¤
+ * java动态代理有一定局限性，需要定义至少一个接口，使用cglib则不必如此
  * @author ZhenShengSu
  *
  */
